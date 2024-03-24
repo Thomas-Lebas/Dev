@@ -1,0 +1,5 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+../with-mongodb-app/node_modules/
+../with-mongodb-app/.env.local
